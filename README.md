@@ -1,6 +1,6 @@
-# CrekFBI
+# Fanz-XD
 
-CrackFB1
+Fanz-XD
 
 $ pkg update && pkg upgrade
 
